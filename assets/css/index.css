@@ -1,0 +1,742 @@
+
+#footer{
+    position: absolute;
+    top: 6473px;
+}
+
+.mobilehoraire{
+    display: none;
+}
+
+.mobilecarte{
+    display: none;
+}
+
+.mobileinsta{
+    display: none;
+}
+
+.mobileavis{
+    display: none;
+}
+
+.mobileapropos{
+    display: none;
+}
+
+.mobilemap{
+    display: none;
+}
+
+/* JUMBORTON */
+
+.position-btn{
+    position: absolute;
+    top: 32%;
+}
+.position-btn-reseau{
+    position: absolute;
+    top: 55%;
+}
+
+/* ######################## CARTE HORAIRE & MENU ########################## */
+.horraire{
+    margin-top: 7rem;
+}
+
+.horraire-width{
+    width: 80%;
+}
+.home-card-body-height{
+    height: 70%;
+}
+.card-title-h{
+    height: 13%;
+}
+.texthoraire{
+font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+
+}
+
+.texthoraire1{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    }
+
+
+.textemenu{
+font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+
+
+}
+
+.textemenu1{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+
+    
+    }
+
+    .cartemenu{
+        position: absolute;
+        width: 366px;
+        height: 429px;
+        left: 820px;
+        top: 690px;
+
+        background: url(pf-6.jpg);
+        border-radius: 2px;
+    }
+
+
+
+    .cartehoraire{
+        position: absolute;
+        width: 366px;
+        height: 429px;
+        left: 262px;
+        top: 690px;
+
+
+        /* background: url(pf-7.jpg); */
+        border-radius: 2px;
+    }
+
+    .fontcarte7{
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 12px;
+        line-height: 14px;
+        border-radius: 2px;
+
+    }
+
+    .contenuhoraire{
+        margin-top: 12px;
+        margin-left: 44px;
+    }
+    .position-text{
+        top: 15%;
+        left: 26%;
+        background: rgba(255, 255, 255, 0.9);
+    }
+
+
+    .fontcarte8{
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 14px;
+
+        color: #000000;
+        border-radius: 2px;
+    }
+    .contenumenu{
+        margin-top: 26px;
+        margin-left: 52px;
+        margin-right: 44px;
+    }
+   
+    .horraire-image {
+        margin: 5rem 0;
+    }
+    .path3800{
+        position: absolute;
+        width: 85px;
+        height: 46.12px;
+        left: 670px;
+        top: 1211px;
+
+        /* background: #2B63AF; */
+    }
+
+    .path3798{
+        position: absolute;
+        width: 108px;
+        height: 30.4px;
+        left: 639px;
+        top: 1264.46px;
+
+        /* background: #2B63AF; */
+    }
+
+    .textexplication1{
+        position: absolute;
+        width: 727px;
+        height: 49px;
+        left: 352px;
+        top: 1372px;
+
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 21px;
+        text-align: justify;
+
+        color: #000000;
+    }
+
+    .textexplication1 span{
+        color: #2B63AF;
+        font-weight: 600;
+    }
+
+    .textexplication2{
+        position: absolute;
+        width: 727px;
+        height: 59px;
+        left: 352px;
+        top: 1447px;
+
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 21px;
+        text-align: justify;
+
+        color: #000000;
+    }
+
+    .textexplication2 span{
+        color: #2B63AF;
+        font-weight: 600;
+    }
+
+    .boutcommandez{
+        width: 161px;
+        height: 53px;
+        background: #000000;
+        border: 1px solid #000000;
+        box-sizing: border-box;
+        border-radius: 20px;
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 16px;
+        /* display: flex; */
+        align-items: center;
+        text-align: center !important;
+        color: #FFFFFF;
+    }
+/* ######################## QUI SOMMES NOUS ########################## */
+    .apropos{
+        margin: 5% 0;
+        padding: 5% 17%;
+        background: rgba(43, 99, 175, 0.08);
+    }
+
+     .quisomme11{
+        position: relative;
+        width: 232px;
+        height: 239.96px;
+        left: 254px;
+        top: 77px;
+        /* background: url(49.jpg); */
+        border-radius: 2px;
+    }
+
+    .quisomme12{
+        position: absolute;
+        width: 232px;
+        height: 239.96px;
+        left: 612px;
+        top: 77px;
+
+        /* background: url(1.jpg); */
+        border-radius: 2px;
+    }
+
+    .quisomme13{
+        position: absolute;
+        width: 232px;
+        height: 239.96px;
+        left: 958px;
+        top: 77px;
+
+        /* background: url(pf-8.jpg); */
+        border-radius: 2px;
+    }
+
+    .textquisomme{
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 22px;
+        text-align: justify;
+        
+
+        color: #000000;
+    }
+    .ft-sz{
+        font-size: 18px;
+    }
+
+    .textquisomme p{
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 28px;
+        text-align: justify;
+        margin-top: 24px;
+        color: #000000;
+    }
+
+    .btncontact{
+        width: 164px;
+        height: 57px;
+        background: #FFFFFF;
+        border-radius: 20px;
+    }
+
+    .liencontact{
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        margin-top: 16px;
+        margin-left : 6px;
+
+    }
+    /* ######################## NOS CARTES ########################## */
+
+    .noscartes{
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 36px;
+        line-height: 42px;
+        text-align: center;
+        color: #000000;
+    }
+
+    .noscarteimg{
+        position: absolute;
+        width: 856px;
+        height: 1361px;
+        left: 292px;
+        top: 2579px;
+
+        background: url(pf-6.jpg);
+        border-radius: 2px;
+    }
+.w-carte{
+    width: 76%;
+}
+.Rectangle17{
+    background: rgba(196, 196, 196, 0.92);
+    border-radius: 2px;
+    top: 8%;
+    bottom: 8%;
+    left: 19%;
+    right: 19%;
+}
+
+.boutcommand{
+    position: absolute;
+    width: 162px;
+    height: 53px;
+    left: 639px;
+    top: 4039px;
+
+    background: #000000;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 20px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    /* display: flex; */
+    align-items: center;
+    text-align: center !important;
+
+    color: #FFFFFF;
+}
+
+.cartedujour{
+    position: relative;
+    width: 667px;
+    height: 854px;
+    left: 383px;
+    top: 2336px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 25px;
+    text-align: center;
+
+    color: #000000;
+}
+
+/* ######################## INSTAGRAMMME ########################## */
+
+.insta{
+    position: absolute;
+    width: 1442px;
+    height: 890px;
+    left: 0px;
+    top: 4173px;
+    
+    background: rgba(43, 99, 175, 0.08);
+}
+
+.instalogo{
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 188px;
+    top: 44px;
+
+    /* background: url(580b57fcd9996e24bc43c521.png); */
+}
+
+.textinsta{
+    position: absolute;
+    width: 323px;
+    height: 51px;
+    left: 221.01px;
+    top: 62px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+.barre{
+    position: absolute;
+    width: 1019.02px;
+    height: 0px;
+    left: 210px;
+    top: 102px;
+
+    border: 0px solid rgba(196, 196, 196, 0.7);
+}
+
+.videoinsta{
+    position: absolute;
+    width: 258px;
+    height: 258px;
+    left: 286px;
+    top: 184px;
+    border: 1px solid black;
+    overflow: hidden;
+}
+
+.instaimage0{
+    position: absolute;
+    width: 258px;
+    height: 258px;
+    left: 590px;
+    top: 184px;
+    
+
+    background: #C4C4C4;
+}
+.instaimage1{
+    position: absolute;
+    width: 258px;
+    height: 258px;
+    left: 906px;
+    top: 184px;
+    background: #C4C4C4;
+}
+
+.instaimage2{
+    position: absolute;
+    width: 258px;
+    height: 258px;
+    left: 286px;
+    top: 471px;
+
+    background: #C4C4C4;
+}
+
+.instaimage3{
+    position: absolute;
+    width: 258px;
+    height: 258px;
+    left: 590px;
+    top: 471px;
+    
+    background: #C4C4C4;
+
+}
+
+.instaimage4{
+    position: absolute;
+    width: 258px;
+    height: 258px;
+    left: 906px;
+    top: 471px;
+    
+    background: #C4C4C4;
+
+}
+
+.boutimgInsta0{
+    position: absolute;
+    width: 173px;
+    height: 40px;
+    left: 509px;
+    top: 779px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 280;
+    font-size: 14px;
+    line-height: 16px;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+
+
+    background: #000000;
+    border-radius: 10px;
+}
+
+.boutimgInsta1{
+    position: absolute;
+    width: 173px;
+    height: 40px;
+    left: 759px;
+    top: 779px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 280;
+    font-size: 14px;
+    line-height: 16px;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+
+
+
+    background: #579CFB;
+    border-radius: 10px;
+}
+
+#afficherplus:hover{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+#suivre:hover{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+#btncommandCarte:hover{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+/* ######################## AVIS ########################## */
+
+.avis{
+    position: absolute;
+    width: 385px;
+    height: 68px;
+    left: 542px;
+    top: 5119px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+
+.avisImg{
+    position: absolute;
+    width: 735px;
+    height: 686.73px;
+    left: 367px;
+    top: 5225px;
+
+    /* background: url(Capture d’écran 2020-12-08 à 17.27.png); */
+}
+
+/* ######################## MAP ########################## */
+
+.map{
+    position: absolute;
+    width: 1437px;
+    height: 485.22px;
+    left: 1px;
+    bottom: 179.78px;
+    top: 5988px;
+
+    background: #E5E5E5;
+}
+
+.mapcarte{
+    position: absolute;
+    width: 578px;
+    height: 352px;
+    left: 258px;
+    bottom: 62px;
+    /* background: url(Capture d’écran 2020-12-01 à 13.33.png); */
+}
+
+.mapcontact{
+    position: absolute;
+    width: 231px;
+    height: 189px;
+    left: 951px;
+    bottom: 181px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.mapcontact .contactKA{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 35px;
+}
+
+.boutmap{
+    position: absolute;
+    width: 161px;
+    height: 53px;
+    left: 987px;
+    bottom: 102px;
+
+    background: #FFFFFF;
+    border-radius: 20px;
+
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+
+ 
+/* ######################## FOOTER ########################## */
+
+/* dans footer.css
+ */
+
+ /* ######################## VERSION MOBILE ########################## */
+
+ @media screen and (max-width: 360px){
+    /* HORAIRE */
+    .webhoraire{
+        display: none;
+    }
+
+    .mobilehoraire{
+        display: block;
+    }
+
+
+
+    /* QUI SOMMES NOUS */
+    .webapropos{
+        display: none;
+    }
+
+    .mobileapropos{
+        display: block;
+    }
+
+
+    /* NOTRE CARTE */
+    .webcarte{
+        display: none;
+    }
+
+    .mobilecarte{
+        display: block;
+    }
+
+    /* MAP */
+    .webmap{
+        display: none;
+    }
+
+    .mobilemap{
+        display: block;
+    }
+
+    /* INSTAGRAMME*/
+    .webinsta{
+        display: none;
+    }
+
+    .mobileinsta{
+        display: block;
+    }
+
+
+    /* AVIS GOOGLE */
+    .webavis{
+        display: none;
+    }
+
+    .mobileavis{
+        display: block;
+    }
+
+ }
+
+
+ @media screen and (min-width: 1700px){
+
+    .position-text{
+        width: 48% !important;
+    }
+
+}
+

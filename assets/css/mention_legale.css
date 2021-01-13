@@ -1,0 +1,74 @@
+.textmention p{
+    width: 394px;
+    height: 39px;
+    margin-left: 528px;
+    margin-top: 0px;
+
+    padding-top: 95px;
+    padding-bottom: 152px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.contentmention p{
+    width: 1001px;
+    height: 1660px;
+    margin-left: 224px;
+    margin-top: 0px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    /* text-align: justify; */
+
+    color: #000000;
+}
+
+@media screen and (max-width: 360px){   
+
+    .mentionlégaleweb{
+        height: 8000px;
+    }
+
+    .textmention p {
+        width: 1438px;
+        /* height: 24px; */
+        margin-left: 16px;
+        margin-top: 13px;
+        padding-top: 117px;
+        /* padding-top: 94px; */
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 94px;
+        font-weight: 00;
+        text-align: center;
+        color: #000000;
+    }
+
+    .contentmention p{
+        width: 1179px;
+        height: 1660px;
+        margin-left: 142px;
+        margin-top: 0px;
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 52px;
+        line-height: 84px;
+        text-align: justify;
+    }
+
+    #footercgu{
+        top: 0;
+    }
+}

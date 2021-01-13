@@ -1,0 +1,123 @@
+.burger {
+    display: none;
+    cursor: pointer;
+    margin-left: 1175px;
+    margin-top: 135px;
+    /* color: black; */
+    width: 1297px;
+}
+
+.burger div {
+    width: 112px;
+    height: 9px;
+    background-color: #080707;
+    margin: 16px;
+    transition: all 0.3s ease;
+}
+
+.navbar-link li{
+    list-style: none;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
+.nav-height{
+    height: 180px;
+    max-width: 1500px;
+}
+.mobilenav{
+    display: none;
+}
+
+.head{
+    background: radial-gradient(50% 50% at 50% 50%, #2B63AF 0%, #579CFB 100%);
+    height: 180px;
+    border-bottom: 1px solid #000000;
+}
+
+.textnav{
+
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+
+}
+
+a:hover{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.background{
+    display: none;
+}
+
+.boutreserver{
+    width: 162px;
+    height: 53px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    align-items: center;
+    text-align: center;
+    background: #FFFFFF;
+    border-radius: 20px ;
+    border-color: transparent;
+    color: #000000;
+}
+
+
+
+.boutclickcollect{
+    width: 162px;
+    height: 53px;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    align-items: center;
+    text-align: center;
+    background: #FFFFFF;
+    border-radius: 20px ;
+    border-color: transparent;
+    color: #000000;
+}
+
+.boutinstagramme{
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    left: 674px;
+    top: 356px;
+}
+
+.boutfacebook{
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    left: 735px;
+    top: 356px;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    position: relative;
+} 
+
+
+/*/*/
+/* 
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+} */

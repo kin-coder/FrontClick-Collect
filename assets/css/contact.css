@@ -1,0 +1,522 @@
+.mobilecontact{
+    display: none;
+}
+
+.textcontact{
+    /* position: sticky; */
+    width: 394px;
+    height: 39px;
+    margin-left: 524px;
+    margin-top: 86px;
+    margin-bottom: 91px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.rectangle5{
+    position: sticky;
+    width: 1437px;
+    height: 485.22px;
+    left: 1px;
+    /* top: 391px; */
+
+    background: rgba(43, 99, 175, 0.08);
+}
+
+.contactmap{
+    width: 578px;
+    height: 352px;
+    margin-left: 258px;
+    margin-top: 63px;
+   
+}
+
+.contacttext{
+    /* position: absolute; */
+    width: 231px;
+    height: 189px;
+    margin-left: 951px;
+    margin-top: -306px;
+    
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.contacttext p{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 32px;
+    text-align: center;
+    margin-top: -15px;
+
+    color: #000000;
+}
+
+.boutcontact{
+    position: absolute;
+    left: 69.58%;
+    right: 19.17%;
+    top: 34.91%;
+    bottom: 62.21%;
+    background: #FFFFFF;
+    border-radius: 20px;
+}
+
+#btncontact{
+    position: sticky;
+    width: 161.89px;
+    height: 57.28px;
+    left: 1002px;
+    top: 694px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+
+.titrecontact{
+    /* position: absolute; */
+    width: 394px;
+    height: 39px;
+    /* left: 519px;
+    top: 957px; */
+
+
+    margin-left: 519px;
+    margin-top:  70px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #000000;
+}
+
+
+.formulairecontact{
+    height: 800px;
+    margin-top: 11px;
+    margin-left: 0px;
+}
+
+.labelnom{
+    /* position: sticky; */
+    width: 102px;
+    height: 22px;
+    margin-left: 215px;
+    margin-top: 35px;
+    margin-bottom: 7px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+
+    color: #000000;
+}
+
+.labelprenom{
+    width: 102px;
+    height: 22px;
+    margin-left: 24px;
+    margin-top: 35px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+
+    color: #000000;
+}
+
+.inputnom{
+    width: 472px;
+    height: 51px;
+    margin-left: 215px;
+    margin-top: 0px;
+
+    background: #E5E5E5;
+    border-radius: 5px;
+    border: none;
+}
+
+.inputprenom{
+    width: 472px;
+    height: 51px;
+    margin-left: 23px;
+    margin-top: 7px;
+
+    background: #E5E5E5;
+    border-radius: 5px;
+    border: none;
+}
+
+
+.labelemail{
+    width: 102px;
+    height: 22px;
+    margin-left: 215px;
+    margin-top: 35px;
+    margin-bottom: 7px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+
+    color: #000000;
+
+}
+
+.inputemail{
+    
+    width: 1012px;
+    height: 51px;
+    margin-left: 215px;
+    margin-top: 0px;
+
+    background: #E5E5E5;
+    border-radius: 5px;
+    border: none;
+}
+
+.labelobjet{
+    width: 102px;
+    height: 22px;
+    margin-left: 215px;
+    margin-top: 35px;
+    margin-bottom: 7px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+
+    color: #000000;
+
+}
+
+.inputobjet{
+    
+    width: 1012px;
+    height: 51px;
+    margin-left: 215px;
+    margin-top: 0px;
+
+    background: #E5E5E5;
+    border-radius: 5px;
+    border: none;
+}
+
+.labelmessage{
+    width: 102px;
+    height: 22px;
+    margin-left: 215px;
+    margin-top: 35px;
+    margin-bottom: 7px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+
+    color: #000000;
+
+}
+
+.inputmessage{
+    
+    width: 1012px;
+    height: 268px;
+    margin-left: 215px;
+    margin-top: 0px;
+
+    background: #E5E5E5;
+    border-radius: 5px;
+    border: none;
+}
+
+.inputsubmit{
+    position: absolute;
+    width: 158px;
+    height: 44px;
+    left: 227px;
+    top: 1685px;
+
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 12px;
+    line-height: 14px;
+    /* display: flex; */
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+
+    background: #000000;
+    border-radius: 20px;
+    border: none;
+}
+
+#envoyer:hover{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.marge{
+    margin-bottom: -14px;
+}
+
+@media screen and (max-width: 360px){
+
+    .webcontact{
+        display: none;
+    }
+
+    .mobilecontact{
+        display: block;
+    }
+
+    .titrecontactmobile{
+        margin-left: 445px;
+        margin-top: 217px;
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 98px;
+
+        color: #000000;
+    }
+
+    .mapCM{
+        width: 1235px;
+        height: 1041px;
+        margin-left: 106px;
+        margin-top: 212px;
+    }
+
+    .localCM{
+        width: 1269px;
+        height: 1089px;
+        margin-left: 353px;
+        margin-top: 0
+    }
+    .localmobile{
+        width: 940px;
+        height: 189px;
+        margin-left: -72px;
+        margin-top: -387px;
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 53px;;
+        text-align: center;
+        color: #000000;
+        line-height: 131px;
+    }
+
+    .localcontact{
+        margin-top: 190px;
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 98px;
+        color: #000000;
+    }
+
+    .contactmobiledessus{
+        height: 2884px;
+        width: 1438px;
+
+        background: rgba(43, 99, 175, 0.08);
+    }
+
+    .formulairecontactmobile{
+        width: 1438px;
+    }
+    .enteteformulaire{
+        margin-left: 368px;
+        margin-top: 181px;
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 98px;
+
+        color: #000000;
+    }
+
+    .margemobile{
+        margin-bottom: -14px;
+    }
+
+    .labelnommobile{
+        margin-left: 102px;
+        margin-top: 27px;
+        /* margin-bottom: 7px; */
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 50px;
+        line-height: 14px;
+        color: #000000;
+    }
+    
+    .labelprenommobile{
+        margin-left: 105px;
+        margin-top: 96px;
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 50px;
+        line-height: 14px;
+        color: #000000;
+    }
+    
+    .inputnommobile{
+        width: 1241px;
+        height: 212px;
+        margin-left: 102px;
+        margin-top: 17px;
+        background: #E5E5E5;
+        border-radius: 23px;
+        border: none
+    }
+    
+    .inputprenommobile{
+        width: 1241px;
+        height: 212px;
+        margin-left: 104px;
+        margin-top: 15px;
+        background: #E5E5E5;
+        border-radius: 29px;
+        border: none;
+    }
+    
+    
+    .labelemailmobile{
+        margin-left: 102px;
+        margin-top: 95px;
+        /* margin-bottom: 7px; */
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 50px;
+        line-height: 14px;
+        color: #000000;
+    
+    }
+    
+    .inputemailmobile{
+        
+        width: 1241px;
+        height: 212px;
+        margin-left: 102px;
+        margin-top: 17px;
+        background: #E5E5E5;
+        border-radius: 23px;
+        border: none
+    }
+    
+    .labelobjetmobile{
+        margin-left: 102px;
+        margin-top: 95px;
+        /* margin-bottom: 7px; */
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 50px;
+        line-height: 14px;
+        color: #000000;
+    
+    }
+    
+    .inputobjetmobile{
+        width: 1241px;
+        height: 212px;
+        margin-left: 102px;
+        margin-top: 17px;
+        background: #E5E5E5;
+        border-radius: 23px;
+        border: none
+    }
+    
+    .labelmessagemobile{
+        margin-left: 102px;
+        margin-top: 95px;
+        /* margin-bottom: 7px; */
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 50px;
+        line-height: 14px;
+        color: #000000;
+    
+    }
+    
+    .inputmessagemobile{
+        
+        width: 1241px;
+        height: 915px;
+        margin-left: 102px;
+        margin-top: 17px;
+        background: #E5E5E5;
+        border-radius: 23px;
+        border: none;
+    }
+    
+    .inputsubmitmobile{
+        width: 500px;
+        height: 136px;
+        margin-left: 102px;
+        margin-top: 85px;
+        font-family: Raleway;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 60px;
+        line-height: 14px;
+        align-items: center;
+        text-align: center;
+        color: #FFFFFF;
+        background: #000000;
+        border-radius: 45px;
+        border: none;
+    }
+
+    .formmobilecontact{
+        height: 2838px;
+        margin-top: 190px;
+    }
+    
+}
