@@ -80,7 +80,7 @@
    
    
 <div class="horraire">
-    <div class="row justify-content-between horraire-width mx-auto">
+    <div class=" g-0 row justify-content-between horraire-width mx-auto">
         <div class="home-card col-6">
             <div class="home-card-title text-center card-title-h">
                     <p class="texthoraire m-0"> HORAIRES</p>
@@ -145,7 +145,7 @@
         <img src="../../assets/images/path3798.png"  class="" alt="">
     </div>
 
-    <div class="explanation row justify-content-center">
+    <div class="explanation row  g-0 justify-content-center">
         <div class="w-50">
             <div class="mb-5">
                 <p>Dans l’attente d’une nouvelle éclaircie, nous vous proposons une carte plus restreinte,

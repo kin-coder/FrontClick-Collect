@@ -1,3 +1,11 @@
+html, body {
+	height: 100% !important;
+}
+body {
+	display : table !important;
+    width: 100%;
+    font-family: Raleway;
+}
 
 #footer{
     position: absolute;
@@ -710,3 +718,62 @@ hr.mx-auto{
     }
 }
 
+/* Tunnel d'achat */
+.bg-conteneur{
+    padding: 3% 0;
+    background: aqua;
+}
+.conteneur-tunnel{
+    width: 80%;
+}
+.conteneur-tunnel ul li{
+    list-style: none;
+    margin: 0!important;
+    padding: 0!important;
+}
+.conteneur-tunnel ul li a{
+    font-weight: 500;
+    font-size: 24px;
+    color: #000000;
+    text-decoration: none;
+
+}
+li strong{
+    font-size: 24px;
+}
+.conteneur-entree{
+    margin: 3% 0;
+}
+.bg-card, .bg-span{
+    background: rgba(43, 99, 175, 0.08);
+}
+.add{
+    cursor: pointer;
+}
+.test-w{
+    width: 30%;
+}
+.font-card {
+    font-size: 0.8rem;
+    padding: 0.20rem !important;
+}
+.h-font{
+    font-size: 0.6916rem;
+}
+.bg-y{
+    background: antiquewhite;
+    padding: 3% 0;
+}
+.card-border{
+    border: 2px solid #2B63AF;
+    border-radius: 10px;
+}
+.card-border-radius{
+    border-radius: 10px;
+}
+.font-horraire{
+    font-size: 1rem;
+}
+.contacter-nous{
+    padding: 2% 0 5% 0;
+}
