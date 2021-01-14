@@ -1,5 +1,5 @@
 .footer{
-    height: 180px;
+    padding: 5%;
     background: #313131;
     border: 1px solid #000000;
 }
@@ -8,21 +8,11 @@
     display: none;
 }
 
- /* .foot{ */
-    /* position: relative;
-    width: 1438px;
-    height: 180px;
-    left: 0px;
-    right: 0%;
-    bottom: 0%; */
-    /* min-height: 100%; */
-    /* top: 6473px; */
+.text-right{
+    text-align: right !important;
+    margin-right: 2%;
+}
 
-
-
-    /* background: #313131;
-    border: 1px solid #000000;
-} */
 
 
 .logofoot{
@@ -60,12 +50,20 @@ a:hover{
     color: #FFFFFF;
 }
 
-.textlegale a{
+.text-style{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.84);
+}
+
+/* .textlegale a{
     font-family: Raleway;
     font-style: normal;
     font-weight: 300;
     font-size: 18px;
-    line-height: 21px;
     text-decoration: none;
     color: rgba(255, 255, 255, 0.84);
 }
@@ -88,7 +86,7 @@ a:hover{
     line-height: 21px;
     text-decoration: none;
     color: rgba(255, 255, 255, 0.84);
-}
+} */
 
 @media screen and (max-width: 360px){
     /* HORAIRE */

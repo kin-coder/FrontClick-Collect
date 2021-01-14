@@ -62,8 +62,27 @@
 
 
 
-<footer>
-    
+<footer class="footer d-flex justify-content-between align-items-center wrap">
+    <div class="mx-4 d-flex justify-content-between align-items-center col-6">
+        <div>
+            <a class="" href="#"><img src="../../assets/images/Logofoot.png" class="" alt=""></a>
+        </div>
+        <div>
+            <a class="" href="#"><img src="../../assets/images/instagram-seeklogo.com 1.png" class=""alt=""></a>
+            <a class="" href="#"><img src="../../assets/images/facebook-logo 1.png" alt=""></a>
+        </div>
+        <div>
+            <p class="mentionfootermobile p-0 m-0 text-style">Mentions légales</p>
+        </div>
+        <div>
+             <p class="cgufootermobile p-0 m-0 text-style">CGU</p>
+        </div>
+    </div>
+    <div class="col-2">
+    </div>
+    <div class="col-3 text-right">
+        <p class="designKAmobile m-0 p-0 text-style">2020 © Design by KA</p>
+    </div>
 </footer>
 
 
