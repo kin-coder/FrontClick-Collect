@@ -488,6 +488,10 @@
     </div>
 </div>
 
+<div class="text-center pt-5 pb-5">
+    <button class="btn boutcommandez">Commandez</button>
+</div>
+
 <!-- Fin contacter nous -->
 
 

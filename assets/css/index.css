@@ -721,7 +721,7 @@ hr.mx-auto{
 /* Tunnel d'achat */
 .bg-conteneur{
     padding: 3% 0;
-    background: aqua;
+    background: rgba(229, 229, 229, 0.22);
 }
 .conteneur-tunnel{
     width: 80%;
@@ -745,7 +745,7 @@ li strong{
     margin: 3% 0;
 }
 .bg-card, .bg-span{
-    background: rgba(43, 99, 175, 0.08);
+    background: #E5E5E5;
 }
 .add{
     cursor: pointer;
@@ -761,12 +761,13 @@ li strong{
     font-size: 0.6916rem;
 }
 .bg-y{
-    background: antiquewhite;
+    background: rgba(43, 99, 175, 0.1);
     padding: 3% 0;
 }
 .card-border{
-    border: 2px solid #2B63AF;
-    border-radius: 10px;
+    border: 1px solid #2B63AF;
+    box-sizing: border-box;
+    border-radius: 5px;
 }
 .card-border-radius{
     border-radius: 10px;
