@@ -1,12 +1,7 @@
 .footer{
-    position: sticky;
-    width: 1438px;
     height: 180px;
     background: #313131;
     border: 1px solid #000000;
-    bottom: 0%;
-    left: 0px;
-    /* top: 6473px; */
 }
 
 .mobilefooter{
@@ -66,57 +61,32 @@ a:hover{
 }
 
 .textlegale a{
-    position: absolute;
-    width: 155px;
-    height: 25px;
-    left: 431px;
-    top: 79px;
-
     font-family: Raleway;
     font-style: normal;
     font-weight: 300;
     font-size: 18px;
     line-height: 21px;
-    
     text-decoration: none;
-    
-
     color: rgba(255, 255, 255, 0.84);
 }
 
 .textcgu a{
-    position: absolute;
-    width: 155px;
-    height: 25px;
-    left: 617px;
-    top: 79px;
-
     font-family: Raleway;
     font-style: normal;
     font-weight: 300;
     font-size: 18px;
     line-height: 21px;
-
     text-decoration: none;
-
     color: rgba(255, 255, 255, 0.84);
 }
 
 .textKA a{
-    position: absolute;
-    width: 187px;
-    height: 25px;
-    left: 1153px;
-    top: 79px;
-
     font-family: Raleway;
     font-style: normal;
     font-weight: 300;
     font-size: 18px;
     line-height: 21px;
-
     text-decoration: none;
-
     color: rgba(255, 255, 255, 0.84);
 }
 

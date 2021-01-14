@@ -91,7 +91,7 @@
                     <div class="text-center">
                       <img src="../../assets/images/Rectangle7.png" alt="">
                     </div>
-                    <div class="position-absolute w-50 home-card-body-height position-text">
+                    <div class="position-absolute home-card-body-height position-text">
                         <div class="fontcarte7 py-2">
                             <div class="w-75 mx-auto">
                                 Lundi<br>

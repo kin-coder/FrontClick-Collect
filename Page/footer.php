@@ -1,9 +1,9 @@
 
 
-<div class="webfooter">
+<!-- <div class="webfooter">
     <footer class="footer">
             <div>
-                <a class="" href="#"><img src="../../assets/images/logofoot.png" class="logofoot" alt=""></a>
+                <a class="" href="#"><img src="../../assets/images/Logofoot.png" class="logofoot" alt=""></a>
             </div>
             <div>
                 <a class="boutinstafoot" href="#"><img src="../../assets/images/instagram-seeklogo.com 1.png" class=""alt=""></a>
@@ -58,7 +58,18 @@
         
     </footer>
     
-</div>
+</div> -->
+
+
+
+<footer>
+    
+</footer>
+
+
+
+
+
     
 <script src="../../assets/js/bootstrap.min.js"></script>
 <script src="../../assets/js/header.js"></script>

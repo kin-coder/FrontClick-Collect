@@ -94,7 +94,7 @@
                         <a class="nav-link active textnav notrecarte" href="#">La carte</a>
                     </li>
                     <li>
-                        <a class="navbar-brand logo" href="#"><img src="../../assets/images/logo.png" alt=""></a>
+                        <a class="navbar-brand logo" href="#"><img src="../../assets/images/Logo.png" alt=""></a>
                     </li>
                     <li>
                         <a class="nav-link active textnav commandez" href="#">Commander en ligne</a>

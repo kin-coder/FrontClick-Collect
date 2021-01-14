@@ -31,13 +31,13 @@
 <div class="apropos">
     <div class="">
         <div class="row apropos-image justify-content-between">
-            <div class="image-apropos col-3">
+            <div class="image-apropos col-3 p-0">
                 <img src="../../assets/images/Rectangle11.png" class="w-100" alt="">
             </div>
-            <div class="image-apropos col-3">
+            <div class="image-apropos col-3 p-0">
                 <img src="../../assets/images/Rectangle12.png" class="w-100" alt="">
             </div>
-            <div class="image-apropos col-3">
+            <div class="image-apropos col-3 p-0">
                 <img src="../../assets/images/Rectangle13.png" class="w-100" alt="">
             </div>
         </div>

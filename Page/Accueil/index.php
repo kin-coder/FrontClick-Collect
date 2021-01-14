@@ -9,11 +9,13 @@
 
     <?php include 'notreCarte.php';?>
 
-    <?php //include 'instagramme.php';?>
+    <?php include 'instagramme.php';?>
 
-    <?php //include 'avis.php';?>
+    <?php include 'avis.php';?>
 
-    <?php //include 'map.php';?>
+    <?php include 'map.php';?>
+
+    <?php include '../footer.php';?>
 
 
     

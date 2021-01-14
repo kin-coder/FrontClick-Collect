@@ -58,7 +58,7 @@
 </div> -->
 
 
-<div class="horraire-image">
+<!-- <div class="horraire-image">
     <div class="noscartes">NOTRE CARTE</div>
     <div class="horraire-image w-carte mx-auto position-relative">
         <div class="text-center">
@@ -106,5 +106,51 @@
                 </div>
             </div>
         </div>
+    </div>
+</div> -->
+
+
+<div class="conteneur horraire-image">
+    <div class="noscartes">NOTRE CARTE</div>
+    <div class="contenue mx-auto">
+        <div class="contenue-body text-center Rectangle17 w-75 mx-auto lh-lg fontcarte7">
+                ENTREES <br>                                                            
+                Œuf dur, mayo &nbsp; &nbsp;5 <br>
+                Tentacule de poulpe à la plancha, houmous et grenade &nbsp; &nbsp;9 <br>
+                Croquetas au jambon &nbsp; &nbsp;8 <br>
+                Saumon mariné aux herbes fraiches &nbsp; &nbsp;12 <br><br>
+
+                PLATS <br>
+                Cannibale Burger, frites Maison &nbsp; &nbsp;16 <br><br>
+
+                Saucisse au couteau, purée Maison &nbsp; &nbsp;12 <br>
+                Ribs de cochon confits, patates douces et sauce BBQ Maison &nbsp; &nbsp;15 <br>
+                Cuisse de canard confite, grenailles et salicornes en sauce &nbsp; &nbsp;19 <br><br>
+
+                Sauté de seiche aux légumes, espuma d’aïoli &nbsp; &nbsp;16 <br>
+                Moules marinières persillées, frites Maison &nbsp; &nbsp;13 <br><br>
+
+                Tagine végétarien &nbsp; &nbsp;15 <br>
+                Gnocchi Maison, pousses d’épinards, crème de parmesan &nbsp; &nbsp;15 <br><br>
+
+                Salade César &nbsp; &nbsp;14 <br><br>
+
+                DESSERTS <br>
+                Moelleux chocolat, caramel beurre salée &nbsp; &nbsp;5 <br>
+                Salade de fruits frais &nbsp; &nbsp;5 <br>
+                Tarte au citron meringuée &nbsp; &nbsp;6 <br><br>
+
+                LA PETITE EPICERIE <br>
+                Les Terrines NEMROD <br><br>
+
+                Production artisanale Eco-responsable <br>
+                Issue des excédents de la chasse <br>
+                Terrine de sanglier au Gewurztraminer - 100 gr. &nbsp; &nbsp;7 <br>
+                Terrine de chevreuil, figues et pain d’épices - 100 gr. &nbsp; &nbsp;7 <br>
+                Terrine de cerf aux morilles - 100 gr &nbsp; &nbsp;9
+        </div>
+    </div>
+    <div class="text-center pt-5 pb-5">
+        <button class="btn boutcommandez">Commandez</button>
     </div>
 </div>

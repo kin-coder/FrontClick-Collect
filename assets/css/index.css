@@ -49,6 +49,7 @@
 }
 .home-card-body-height{
     height: 70%;
+    width: 45%;
 }
 .card-title-h{
     height: 13%;
@@ -128,7 +129,7 @@ font-size: 18px;
     }
     .position-text{
         top: 15%;
-        left: 26%;
+        left: 27%;
         background: rgba(255, 255, 255, 0.9);
     }
 
@@ -150,7 +151,7 @@ font-size: 18px;
     }
    
     .horraire-image {
-        margin: 5rem 0;
+        margin: 5rem 0 0 0;
     }
     .path3800{
         position: absolute;
@@ -340,13 +341,27 @@ font-size: 18px;
 .w-carte{
     width: 76%;
 }
+
+.contenue{
+    background: url(../images/Rectangle16.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 67%;
+    padding-top: 7.5%;
+    padding-bottom: 7.5%;
+    margin-top: 5%;
+}
+.contenue-body{
+    padding-top: 15.5%;
+    padding-bottom: 15.5%;
+}
 .Rectangle17{
     background: rgba(196, 196, 196, 0.92);
     border-radius: 2px;
-    top: 8%;
+    /* top: 8%;
     bottom: 8%;
     left: 19%;
-    right: 19%;
+    right: 19%; */
 }
 
 .boutcommand{
@@ -392,14 +407,9 @@ font-size: 18px;
 
 /* ######################## INSTAGRAMMME ########################## */
 
-.insta{
-    position: absolute;
-    width: 1442px;
-    height: 890px;
-    left: 0px;
-    top: 4173px;
-    
+.insta{    
     background: rgba(43, 99, 175, 0.08);
+    padding: 5%;
 }
 
 .instalogo{
@@ -411,25 +421,27 @@ font-size: 18px;
 
     /* background: url(580b57fcd9996e24bc43c521.png); */
 }
-
+.w-insta-head{
+    width: 81%;
+}
+.w-insta-container{
+    width: 86%;
+}
 .textinsta{
-    position: absolute;
-    width: 323px;
-    height: 51px;
-    left: 221.01px;
-    top: 62px;
-
     font-family: Raleway;
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 16px;
-    /* display: flex; */
-    align-items: center;
-    text-align: center;
-
+    margin-left: 15px;
     color: #000000;
 }
+
+hr.mx-auto{
+    width: 95%;
+    margin-top: 20px;
+}
+
 .barre{
     position: absolute;
     width: 1019.02px;
@@ -451,14 +463,11 @@ font-size: 18px;
 }
 
 .instaimage0{
-    position: absolute;
-    width: 258px;
-    height: 258px;
-    left: 590px;
-    top: 184px;
-    
-
     background: #C4C4C4;
+    margin-bottom: 25px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
 }
 .instaimage1{
     position: absolute;
@@ -502,19 +511,13 @@ font-size: 18px;
 }
 
 .boutimgInsta0{
-    position: absolute;
     width: 173px;
     height: 40px;
-    left: 509px;
-    top: 779px;
-
     font-family: Raleway;
     font-style: normal;
     font-weight: 280;
     font-size: 14px;
     line-height: 16px;
-    /* display: flex; */
-    align-items: center;
     text-align: center;
 
     color: #FFFFFF;
@@ -525,19 +528,13 @@ font-size: 18px;
 }
 
 .boutimgInsta1{
-    position: absolute;
     width: 173px;
     height: 40px;
-    left: 759px;
-    top: 779px;
-
     font-family: Raleway;
     font-style: normal;
     font-weight: 280;
     font-size: 14px;
     line-height: 16px;
-    /* display: flex; */
-    align-items: center;
     text-align: center;
 
     color: #FFFFFF;
@@ -566,45 +563,27 @@ font-size: 18px;
 /* ######################## AVIS ########################## */
 
 .avis{
-    position: absolute;
-    width: 385px;
-    height: 68px;
-    left: 542px;
-    top: 5119px;
-
     font-family: Raleway;
     font-style: normal;
     font-weight: 500;
     font-size: 36px;
     line-height: 42px;
-    /* display: flex; */
-    align-items: center;
     text-align: center;
-
+    margin-top: 5%;
     color: #000000;
 }
 
 .avisImg{
-    position: absolute;
-    width: 735px;
-    height: 686.73px;
-    left: 367px;
-    top: 5225px;
-
-    /* background: url(Capture d’écran 2020-12-08 à 17.27.png); */
+    margin-top: 5%;
+    width: 58%;
 }
 
 /* ######################## MAP ########################## */
 
 .map{
-    position: absolute;
-    width: 1437px;
-    height: 485.22px;
-    left: 1px;
-    bottom: 179.78px;
-    top: 5988px;
-
     background: #E5E5E5;
+    padding: 5% 0;
+    margin-top: 4%;
 }
 
 .mapcarte{
@@ -617,12 +596,6 @@ font-size: 18px;
 }
 
 .mapcontact{
-    position: absolute;
-    width: 231px;
-    height: 189px;
-    left: 951px;
-    bottom: 181px;
-
     font-family: Raleway;
     font-style: normal;
     font-weight: 600;
@@ -640,16 +613,10 @@ font-size: 18px;
 }
 
 .boutmap{
-    position: absolute;
     width: 161px;
     height: 53px;
-    left: 987px;
-    bottom: 102px;
-
     background: #FFFFFF;
     border-radius: 20px;
-
-
     font-family: Raleway;
     font-style: normal;
     font-weight: 400;
@@ -735,8 +702,11 @@ font-size: 18px;
  @media screen and (min-width: 1700px){
 
     .position-text{
-        width: 48% !important;
+        width: 25% !important;
+        left: 37.5%;
     }
-
+    .horraire-width{
+        width: 95%;
+    }
 }
 
